@@ -1,5 +1,5 @@
 {
-  "name": "@jsonjoy.com/json-pointer",
+  "name": "CHANGEME",
   "packageManager": "yarn@4.5.0",
   "publishConfig": {
     "access": "public"
@@ -10,19 +10,14 @@
     "name": "streamich",
     "url": "https://github.com/streamich"
   },
-  "homepage": "https://github.com/jsonjoy-com/json-pointer",
-  "repository": "jsonjoy-com/json-pointer",
+  "homepage": "https://github.com/CHANGEME",
+  "repository": "CHANGEME",
   "funding": {
     "type": "github",
     "url": "https://github.com/sponsors/streamich"
   },
   "keywords": [
-    "json-pointer",
-    "json",
-    "pointer",
-    "jit",
-    "selector",
-    "pick"
+    "CHANGEME"
   ],
   "engines": {
     "node": ">=10.0"
