@@ -1,6 +1,6 @@
 {
   "name": "CHANGEME",
-  "packageManager": "yarn@4.9.2",
+  "packageManager": "yarn@4.9.3",
   "publishConfig": {
     "access": "public"
   },
